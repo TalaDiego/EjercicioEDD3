@@ -31,6 +31,6 @@ public class Main {
         System.out.println("El area del triangulo fijado es: " + fixedTriangle.calculateArea());
 
     }
-// Shift + Alt + F (corrects line placement)
+
 }
-// Este comentario es una prueba.
+// Shift + Alt + F (corrects line placement)
